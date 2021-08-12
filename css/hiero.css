@@ -1161,7 +1161,7 @@ body.search .page .entry-footer {
 ----------------------------------------------- */
 @media screen and (max-width: 960px) {
 	.container {
-		width: 90%;
+		width: 100%;
 		}
 	.site-content {
 		margin-right: 40%;
