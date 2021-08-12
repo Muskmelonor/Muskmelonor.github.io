@@ -1151,7 +1151,7 @@ body.search .page .entry-footer {
 	color: black;
 	}
 .site-info {
-	float: left;
+	float: center;
 	}
 .site-credit {
 	float: right;
@@ -1161,7 +1161,7 @@ body.search .page .entry-footer {
 ----------------------------------------------- */
 @media screen and (max-width: 960px) {
 	.container {
-		width: 100%;
+		width: 90%;
 		}
 	.site-content {
 		margin-right: 40%;
