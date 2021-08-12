@@ -14,7 +14,7 @@ Tags: black, white, red, two-columns, fixed-layout, threaded-comments, full-widt
 /* Global
 ----------------------------------------------- */
 body {
-	color: #333;
+	color: rgb(15, 15, 15);
 	font-weight: 400;
 	font-family: Arial, Helvetica, Microsoft Yahei;
 	line-height: 1.8;
@@ -250,11 +250,11 @@ object {
 	clear: both;
 	}
 
-/* HEADER
+/* HEADER 头部
 ----------------------------------------------- */
 .site-header {
 	padding: 20px 0 0;
-	background: #16171b;
+	background:white;
 	}
 .site-branding {
 	float: left;
@@ -267,7 +267,7 @@ object {
 	line-height: 1;
 	}
 .site-title a {
-	color: #fff;
+	color: rgb(14, 13, 13);
 	text-decoration: none;
 	}
 .site-description {
@@ -277,7 +277,7 @@ object {
 	letter-spacing: 1px;
 	}
 
-/* MENU
+/* MENU 菜单
 ----------------------------------------------- */
 .sf-menu ul {
 	margin: 0;
@@ -330,7 +330,7 @@ object {
 	padding: 20px 0 0;
 	}
 #main-navigation .sf-menu {
-	background: #060608;
+	background: #d31616;
 	}
 #main-navigation .sf-menu > ul > li:after {
 	width: 1px;
@@ -349,7 +349,7 @@ object {
 #main-navigation .sf-menu > ul > li.sfHover:after,
 #main-navigation .sf-menu > ul > li.current_page_item:after,
 #main-navigation .sf-menu > ul > li.current-menu-item:after {
-	color: #ff2828;
+	color: #fafafa;
 	}
 #main-navigation li a {
 	margin: 0 -2px 0 0;
@@ -399,10 +399,10 @@ object {
 	}
 #main-navigation li:hover li a:hover,
 #main-navigation li.sfHover li a:hover {
-	background: #eb2121;
+	background: #fdfafa;
 	}
 
-/* Small Navigation */
+/* Small Navigation 导航栏*/
 .nav-open,
 .nav-close {
 	display: none;
@@ -1135,20 +1135,20 @@ body.search .page .entry-footer {
 	color: #ff2828;
 	}
 
-/* FOOTER
+/* FOOTER 底部
 ----------------------------------------------- */
 .site-footer {
 	padding: 18px 0;
-	color: #999;
+	color: white;
 	font-size: .9em;
-	background: #16171b;
+	background: #d31616;
 	}
 .site-footer a {
 	color: #fff;
 	text-decoration: none;
 	}
 .site-footer a:hover {
-	color: #ff2828;
+	color: black;
 	}
 .site-info {
 	float: left;
