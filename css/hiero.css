@@ -474,7 +474,7 @@ object {
 	}
 .content-area {
 	width: 100%;
-	float: left;
+	float: center;
 	}
 .site-content {
 	margin: 0 340px 0 0;
